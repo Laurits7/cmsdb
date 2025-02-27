@@ -99,6 +99,7 @@ br_hh = DotDict(
     bbzz=2 * br_h.bb * br_h.zz,
     bbtt=2 * br_h.bb * br_h.tt,
     bbgg=2 * br_h.bb * br_h.gg,
+    bbmm=2 * br_h.bb * br_h.mm,
     ttww=2 * br_h.tt * br_h.ww,
     ttzz=2 * br_h.tt * br_h.zz,
     tttt=br_h.tt ** 2,

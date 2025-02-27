@@ -40,3 +40,4 @@ campaign_run3_2023_preBPix_nano_v13 = Campaign(
 # import cmsdb.campaigns.run3_2023_preBPix_nano_v13.higgs  # noqa
 import cmsdb.campaigns.run3_2023_preBPix_nano_v13.hh2bbvv  # noqa
 import cmsdb.campaigns.run3_2023_preBPix_nano_v13.hh2bbtautau  # noqa
+import cmsdb.campaigns.run3_2023_preBPix_nano_v13.hh2bbmumu  # noqa
